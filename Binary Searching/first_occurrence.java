@@ -1,4 +1,4 @@
-import javax.lang.model.util.ElementScanner6;
+
 
 // index of first occurence in an array
 // effcient process
