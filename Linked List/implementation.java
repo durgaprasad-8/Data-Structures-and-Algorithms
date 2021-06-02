@@ -25,13 +25,13 @@ public class implementation
         // and based on the argument, it generates the output
 
         Node head = new Node(87);
-        Node head2 = new Node(100);
-        Node head3 = new Node(109);
+        Node node2 = new Node(100);
+        Node node3 = new Node(109);
 
-        head.next = head2;
-        head2.next = head3;
+        head.next = node2;
+        node2.next = node3;
 
-        System.out.println(head.data+ "-->"+ head2.data+ "-->"+ head3.data);
+        System.out.println(head.data+ "-->"+ node2.data+ "-->"+ node3.data);
 
     }
     
