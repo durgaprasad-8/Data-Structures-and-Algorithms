@@ -1,7 +1,7 @@
 
 // Array implementation of stack
 
-// basic statck implementaion includes push, pop, isempty, size methods
+// basic stack implementaion includes push, pop, isempty, size methods
 
 class mystack
 {
