@@ -1,4 +1,3 @@
-import jdk.tools.jlink.internal.SymLinkResourcePoolEntry;
 
 // prints leaders from left to right
 // efficient process
