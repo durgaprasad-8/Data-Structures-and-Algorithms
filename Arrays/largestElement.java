@@ -28,5 +28,3 @@ public class largestElement
         System.out.println(get_largest_element(array));
     }
 }
-
-// minor error
