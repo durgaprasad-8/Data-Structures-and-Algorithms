@@ -6,7 +6,7 @@ public class largestElement
     static int get_largest_element(int[] array)
     {
 
-        int result = 0;
+        int result = arr[0];
 
         for(int i = 1; i < array.length; i++)
         {
